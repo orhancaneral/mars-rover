@@ -1,0 +1,17 @@
+C:\per\mars-rover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.exe
+C:\per\mars-rover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.deps.json
+C:\per\mars-rover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.json
+C:\per\mars-rover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.dev.json
+C:\per\mars-rover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.dll
+C:\per\mars-rover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.pdb
+C:\per\mars-rover\MarsRover\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\per\mars-rover\MarsRover\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\per\mars-rover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.AssemblyReference.cache
+C:\per\mars-rover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.GeneratedMSBuildEditorConfig.editorconfig
+C:\per\mars-rover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfoInputs.cache
+C:\per\mars-rover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfo.cs
+C:\per\mars-rover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CoreCompileInputs.cache
+C:\per\mars-rover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CopyComplete
+C:\per\mars-rover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.dll
+C:\per\mars-rover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.pdb
+C:\per\mars-rover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.genruntimeconfig.cache

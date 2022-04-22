@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YbAgEfOagw4ZiPBLIoHyF5+1Eq17WwHBKy/RauaRcG+fx4nxu2l1YDyWOHK2I7cMfgcQw//koMYYYJ/ECELI6g==",
+  "dgSpecHash": "5Lt0har+i/MW1mcPf+1BGcD7Z/F9IlzXArX4SprCszCL3S1zLlojRBUBGoh9qDR1g+dxWzDi4E+dm35iZLuNJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oeral\\source\\repos\\MarsRover\\MarsRover\\MarsRover.csproj",
+  "projectFilePath": "C:\\per\\mars-rover\\MarsRover\\MarsRover.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\oeral\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
-    "C:\\Users\\oeral\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+    "C:\\Users\\o.eral\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\o.eral\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
